@@ -1,0 +1,27 @@
+Why Linux?
+What exactly is Linux?
+History of Linux
+Difference between Linux vs Unix vs Windows
+Linux Installation and how many ways you can do the installation
+Login to the Linux with Authentication and public key/private key
+Basic commands to use for navigation - cd, ls, pwd, absolute path and relative path
+File Management - Understanding file types, create files and directories, find and locate to search for them
+File Management - Permissions, ownership, ACL
+Text to Files, Redirection, I/O, tee, and Pipes
+File Maintenance & Display Commands
+File & Text Processing Commands, vi
+File Operations - Compress, Split, compress and uncompress files, Executing multiple commands
+User Account Management
+Network Management
+System Utility Commands - date, uptime, hostname, uname, which, cal, bc
+Process Management, Job Management & Scheduling - systemd, systemctl, ps, top, kill & pkill, crontab, at, bg, fg, and nohup, nice & renice, df, free, iostat, netstat (new versions ss -tuln), /proc/meminfo, /proc/cpuinfo
+System Logs, Recovery, and Environment Variables
+Package Management & File Transfer Utilities
+System Services - SSH, Telnet, DNS, dig, nslookup, NTP vs Chronyd, timedatectl, Sendmail, HTTPD, rsyslog, logrotate
+Linux OS Hardening
+Linux Server Management: Cockpit, Firewall
+Automate Everything: Podman, Kickstart and DHCP
+Linux Run levels, Boot Process & Disk Management
+LVM & Advanced Storage Management in Linux
+Advanced Storage Techniques in Linux: xfs_info, Stratis, and RAID
+Security Management
