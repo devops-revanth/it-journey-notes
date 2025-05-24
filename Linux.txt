@@ -4,6 +4,7 @@ History of Linux
 Difference between Linux vs Unix vs Windows
 Linux Installation and how many ways you can do the installation
 Login to the Linux with Authentication and public key/private key
+Linux Prompt , How to Access Linux servers
 Basic commands to use for navigation - cd, ls, pwd, absolute path and relative path
 File Management - Understanding file types, create files and directories, find and locate to search for them
 File Management - Permissions, ownership, ACL
